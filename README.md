@@ -292,10 +292,13 @@ Apache 2.0 License - see [LICENSE](LICENSE) for details.
 
 - **GitHub**: https://github.com/zenlm/zen-3d
 - **HuggingFace**: https://huggingface.co/zenlm/zen-3d
-- **Documentation**: https://docs.zenlm.ai/zen-3d
-- **Zen Gym**: https://github.com/zenlm/zen-gym
-- **Zen Engine**: https://github.com/zenlm/zen-engine
+- **Organization**: https://github.com/zenlm
+- **Zen Gym** (Training): https://github.com/zenlm/zen-gym
+- **Zen Engine** (Inference): https://github.com/zenlm/zen-engine
+- **Zen Musician**: https://github.com/zenlm/zen-musician
 
 ---
 
 **Zen 3D** - Controllable 3D generation for the Zen AI ecosystem
+
+Part of the **[Zen AI](https://github.com/zenlm)** ecosystem.
