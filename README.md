@@ -302,3 +302,38 @@ Apache 2.0 License - see [LICENSE](LICENSE) for details.
 **Zen 3D** - Controllable 3D generation for the Zen AI ecosystem
 
 Part of the **[Zen AI](https://github.com/zenlm)** ecosystem.
+---
+
+## Based On
+
+**zen-3d** is based on [Hunyuan3D-Omni](https://github.com/Tencent/Hunyuan3D-1)
+
+We are grateful to the original authors for their excellent work and open-source contributions.
+
+### Upstream Source
+- **Repository**: https://github.com/Tencent/Hunyuan3D-1
+- **Base Model**: Hunyuan3D-Omni
+- **License**: See original repository for license details
+
+### Changes in Zen LM
+- Adapted for Zen AI ecosystem
+- Fine-tuned for specific use cases
+- Added training and inference scripts
+- Integrated with Zen Gym and Zen Engine
+- Enhanced documentation and examples
+
+### Citation
+
+If you use this model, please cite both the original work and Zen LM:
+
+```bibtex
+@misc{zenlm2025zen-3d,
+    title={Zen LM: zen-3d},
+    author={Hanzo AI and Zoo Labs Foundation},
+    year={2025},
+    publisher={HuggingFace},
+    howpublished={\url{https://huggingface.co/zenlm/zen-3d}}
+}
+```
+
+Please also cite the original upstream work - see https://github.com/Tencent/Hunyuan3D-1 for citation details.
