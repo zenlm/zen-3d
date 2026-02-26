@@ -1,6 +1,6 @@
 # Zen 3D
 
-**Zen 3D** is a unified framework for controllable generation of 3D assets. Based on Hunyuan3D-Omni, it provides multi-modal control for creating high-fidelity 3D models from images, point clouds, voxels, poses, and bounding boxes.
+**Zen 3D** is a unified framework for controllable generation of 3D assets. Based on Zen 3D Omni, it provides multi-modal control for creating high-fidelity 3D models from images, point clouds, voxels, poses, and bounding boxes.
 
 <p align="center">
   <img src="assets/omni_teaser.png">
@@ -8,7 +8,7 @@
 
 ## Overview
 
-Zen 3D inherits the powerful architecture of Hunyuan3D 2.1 and extends it with a unified control encoder for additional control signals:
+Zen 3D inherits the powerful architecture of Zen 3D 2.1 and extends it with a unified control encoder for additional control signals:
 
 - **Point Cloud Control**: Generate 3D models guided by input point clouds
 - **Voxel Control**: Create 3D models from voxel representations
@@ -263,9 +263,9 @@ If you use Zen 3D in your research, please cite:
   howpublished={\url{https://github.com/zenlm/zen-3d}}
 }
 
-@misc{hunyuan3d2025hunyuan3domni,
-  title={Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets},
-  author={Tencent Hunyuan3D Team},
+@misc{zen3d2025zen3domni,
+  title={Zen 3D Omni: A Unified Framework for Controllable Generation of 3D Assets},
+  author={Zen LM Zen 3D Team},
   year={2025},
   eprint={2509.21245},
   archivePrefix={arXiv},
@@ -275,7 +275,7 @@ If you use Zen 3D in your research, please cite:
 
 ## Credits
 
-Zen 3D is based on [Hunyuan3D-Omni](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni) by Tencent. We thank the original authors and contributors:
+Zen 3D is based on [Zen 3D Omni](https://github.com/zenlm/Zen 3D Omni) by Zen LM. We thank the original authors and contributors:
 
 - [TripoSG](https://github.com/VAST-AI-Research/TripoSG)
 - [CLAY](https://arxiv.org/abs/2406.13897)
@@ -306,13 +306,13 @@ Part of the **[Zen AI](https://github.com/zenlm)** ecosystem.
 
 ## Based On
 
-**zen-3d** is based on [Hunyuan3D-Omni](https://github.com/Tencent/Hunyuan3D-1)
+**zen-3d** is based on [Zen 3D Omni](https://github.com/zenlm/Zen 3D-1)
 
 We are grateful to the original authors for their excellent work and open-source contributions.
 
 ### Upstream Source
-- **Repository**: https://github.com/Tencent/Hunyuan3D-1
-- **Base Model**: Hunyuan3D-Omni
+- **Repository**: https://github.com/zenlm/Zen 3D-1
+- **Base Model**: Zen 3D Omni
 - **License**: See original repository for license details
 
 ### Changes in Zen LM
@@ -336,4 +336,4 @@ If you use this model, please cite both the original work and Zen LM:
 }
 ```
 
-Please also cite the original upstream work - see https://github.com/Tencent/Hunyuan3D-1 for citation details.
+Please also cite the original upstream work - see https://github.com/zenlm/Zen 3D-1 for citation details.
