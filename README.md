@@ -133,10 +133,9 @@ result.save("output.obj")
 Zen 3D can be trained on custom 3D datasets using Zen Gym:
 
 ```bash
-cd /Users/z/work/zen/gym
+cd /path/to/zen-gym
 
-# LoRA finetuning for Zen 3D
-llamafactory-cli train \
+zen-gym train \
     --config configs/zen_3d_lora.yaml \
     --dataset your_3d_dataset
 ```
