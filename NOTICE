@@ -1,0 +1,9 @@
+zen-3d
+Copyright 2025-2026 Zen Authors
+
+Licensed under the MIT License.
+Developed by the Zen Authors (https://zenlm.org).
+
+Built on:
+- Pixal3D (https://github.com/TencentARC/Pixal3D), MIT License.
+- TRELLIS (https://github.com/microsoft/TRELLIS), MIT License.
