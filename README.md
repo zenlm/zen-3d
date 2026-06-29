@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="zen-3d" width="880"></p>
+
 # Zen 3D
 
 Controllable image-to-3D asset generation.
